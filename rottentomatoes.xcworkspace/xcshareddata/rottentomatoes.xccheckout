@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4E1726B8-5A99-4E65-A534-57BB376A30FC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>rottentomatoes</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CDAB82BDE3B02570B770EEEA8EA7B94B6DF2E092</key>
+		<string>https://github.com/nabiber/rotten.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>rottentomatoes.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CDAB82BDE3B02570B770EEEA8EA7B94B6DF2E092</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nabiber/rotten.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CDAB82BDE3B02570B770EEEA8EA7B94B6DF2E092</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CDAB82BDE3B02570B770EEEA8EA7B94B6DF2E092</string>
+			<key>IDESourceControlWCCName</key>
+			<string>rottentomatoes</string>
+		</dict>
+	</array>
+</dict>
+</plist>
